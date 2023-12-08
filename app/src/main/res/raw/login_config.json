@@ -1,0 +1,20 @@
+{
+  "input_fields" : [
+    {
+      "id" : "email",
+      "isVisible" : true
+    },
+    {
+      "id" : "password",
+      "isVisible" : true
+    },
+    {
+      "id" : "submit_button",
+      "isVisible" : true
+    },
+    {
+      "id" : "forgot_password",
+      "isVisible" : true
+    }
+  ]
+}
